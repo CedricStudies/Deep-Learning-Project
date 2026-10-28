@@ -1,4 +1,4 @@
-# Machine Learning Project
+# Deep Learning Project
 
 This project explores the development of two Deep Learning models: a custom Convolutional Neural Network (CNN) and a InceptionV3 Transfer Learning Model to classify a given image into 3 classes: `airplane`, `automobile`, and `truck`. The workflow included data preparation, model development, performance evaluation, model optimization, and model comparison.
 
